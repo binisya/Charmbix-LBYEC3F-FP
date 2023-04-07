@@ -1,6 +1,6 @@
 # **Simulation of a DC Motor Speed Controller System using MATLAB**
 
-This project is a simulation of a DC motor speed controller system using MATLAB, created by Bettina Dayrit, Gia Kyla Guevarra, Mariah Venice Rodriguez, and Keane Dwight Sulit, students of LBYEC3F – EK1 (Feedback anc Control Systems Laboratory) at the De La Salle University. The project was submitted to their instructor, Donabel de Veas Abuan, ECE, on April 11, 2023.
+This project is a simulation of a DC motor speed controller system using MATLAB, created by Bettina Gaille Dayrit, Gia Kyla Guevarra, Mariah Venice Rodriguez, and Keane Dwight Sulit, students of LBYEC3F – EK1 (Feedback anc Control Systems Laboratory) at the De La Salle University. The project was submitted to their instructor, Donabel de Veas Abuan, ECE, on April 11, 2023.
 
 ## **Overview**
 
