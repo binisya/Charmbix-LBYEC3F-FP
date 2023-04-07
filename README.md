@@ -20,7 +20,7 @@ To run the simulation, open the `3FFinalProjectCodes.mlx` live script in MATLAB 
 
 ## **Contributors**
 
-- Bettina Dayrit - [@bettinadayrit](https://github.com/bettinadayrit)
+- Bettina Gaille Dayrit - [@bettinadayrit](https://github.com/bettinadayrit)
 - Gia Kyla Guevarra - [@giaguevarra](https://github.com/giaguevarra)
 - Mariah Venice Rodriguez - [@binisya](https://github.com/binisya)
 - Keane Dwight Sulit - [@keane-sulit](https://github.com/keane-sulit)
